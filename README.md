@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Signal Lab
 
 Signal Lab is a small AI-native trading research prototype for Option 2 of the AI Full-Stack Developer Intern challenge. It turns the question **“Does buying NIFTY after a sharp fall work?”** into an explicit, inspectable experiment.
@@ -57,3 +58,6 @@ npm run preview
 ## Submission notes
 
 See [THINKING_NOTE.md](THINKING_NOTE.md) and [AI_USAGE_NOTE.md](AI_USAGE_NOTE.md) for the reasoning and development notes requested by the brief.
+=======
+# AI-Full-Stack-assignment
+>>>>>>> f18c2e537cea314f431574af11aa7e2b6cc5d0a8
